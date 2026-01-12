@@ -1,0 +1,8 @@
+name: XGTHandleJavaEvents
+main: xgdavid\XGTHandleJavaEvents\Main
+version: 1.0.0
+description: First Event handler plugin for XGTJavaBridge
+author: xgdavid
+api: [ 5.0.0 ]
+depend:
+  - XGTJavaBridge
